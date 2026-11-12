@@ -6,7 +6,7 @@
 
 نبتكر الجيل القادم من أدوات تطوير البرمجيات
 
-🇴🇲 Sultanate of Oman · سلطنة عُمان
+سلطنة عُمان · Sultanate of Oman
 
 ![Status](https://img.shields.io/badge/status-under_active_development-f59e0b?style=flat-square)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -84,5 +84,5 @@ An integrated development environment **under active development**, designed to 
 ---
 
 <div align="center">
-<sub>© SyntaBlock · سينتابلوك — Oman 🇴🇲</sub>
+<sub>© SyntaBlock · سينتابلوك — سلطنة عُمان</sub>
 </div>
